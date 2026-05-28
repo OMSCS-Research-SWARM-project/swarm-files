@@ -1,0 +1,143 @@
+{
+  "classifications": [
+    {
+      "event_id": 2001,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": "CVE-2023-1389"
+    },
+    {
+      "event_id": 2002,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": "CVE-2023-1389"
+    },
+    {
+      "event_id": 2011,
+      "classification": "benign",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 2021,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": "CVE-2025-34037"
+    },
+    {
+      "event_id": 2023,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": "CVE-2025-34037"
+    },
+    {
+      "event_id": 2031,
+      "classification": "benign",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 2041,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": "CVE-2021-36260"
+    },
+    {
+      "event_id": 2051,
+      "classification": "benign",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 2061,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": "CVE-2024-12856"
+    },
+    {
+      "event_id": 2071,
+      "classification": "benign",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 2081,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": "CVE-2024-0778"
+    },
+    {
+      "event_id": 3001,
+      "classification": "http_dos",
+      "scenario_id": 9001,
+      "cve": null
+    },
+    {
+      "event_id": 3002,
+      "classification": "http_dos",
+      "scenario_id": 9001,
+      "cve": null
+    },
+    {
+      "event_id": 3003,
+      "classification": "http_dos",
+      "scenario_id": 9001,
+      "cve": null
+    },
+    {
+      "event_id": 3004,
+      "classification": "http_dos",
+      "scenario_id": 9001,
+      "cve": null
+    },
+    {
+      "event_id": 3005,
+      "classification": "http_dos",
+      "scenario_id": 9001,
+      "cve": null
+    },
+    {
+      "event_id": 1001,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 1002,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 1036,
+      "classification": "benign",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 1037,
+      "classification": "benign",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 1045,
+      "classification": "benign",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 1050,
+      "classification": "benign",
+      "scenario_id": null,
+      "cve": null
+    }
+  ],
+  "mapped_cves": [
+    "CVE-2021-36260",
+    "CVE-2023-1389",
+    "CVE-2024-0778",
+    "CVE-2024-12856",
+    "CVE-2025-34037"
+  ]
+}

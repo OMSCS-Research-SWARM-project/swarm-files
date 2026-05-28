@@ -1,0 +1,2 @@
+src/malware_analysis_agent/config/tasks.yaml text eol=lf
+src/malware_analysis_agent/crew.py text eol=lf

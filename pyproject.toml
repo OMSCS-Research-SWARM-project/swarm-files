@@ -1,0 +1,26 @@
+[project]
+name = "malware_analysis_agent"
+version = "0.1.0"
+description = "Malware Analysis Agent using crewAI"
+requires-python = ">=3.10,<3.13"
+dependencies = [
+    "crewai[tools]>=0.121.0,<1.0.0",
+    "pydantic>=2.0.0",
+    "python-dotenv>=1.0.0",
+    "tiktoken>=0.8.0",
+]
+
+[project.scripts]
+malware_analysis_agent = "malware_analysis_agent.main:run"
+run_crew = "malware_analysis_agent.main:run"
+train = "malware_analysis_agent.main:train"
+replay = "malware_analysis_agent.main:replay"
+test = "malware_analysis_agent.main:test"
+gradescope-runner = "gradescope_runner.cli:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.crewai]
+type = "crew"

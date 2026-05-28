@@ -1,0 +1,1481 @@
+{
+  "classifications": [
+    {
+      "event_id": 1,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 2,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 3,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 4,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 5,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 6,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 7,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 8,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 9,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 10,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 11,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 12,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 13,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 14,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 15,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 16,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 17,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 18,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 19,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 20,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 21,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 22,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 23,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 24,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 25,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 26,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 27,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 28,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 29,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 30,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 31,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 32,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 33,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 34,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 35,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 36,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 37,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 38,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 39,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 40,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 41,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 42,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 43,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 44,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 45,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 46,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 47,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 48,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 49,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 50,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 51,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 52,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 53,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 54,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 55,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 56,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 57,
+      "classification": "telnet_bruteforce",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 58,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": "CVE-2023-1389"
+    },
+    {
+      "event_id": 59,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": "CVE-2023-1389"
+    },
+    {
+      "event_id": 60,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": "CVE-2025-34037"
+    },
+    {
+      "event_id": 61,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": "CVE-2025-34037"
+    },
+    {
+      "event_id": 62,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 63,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 64,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 65,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 66,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 67,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 68,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 69,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 70,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 71,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 72,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 73,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 74,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": "CVE-2021-36260"
+    },
+    {
+      "event_id": 75,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": "CVE-2021-36260"
+    },
+    {
+      "event_id": 76,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 77,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 78,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 79,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 80,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 81,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 82,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 83,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 84,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 85,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 86,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 87,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 88,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 89,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 90,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 91,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 92,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 93,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 94,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 95,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 96,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 97,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 98,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 99,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 100,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 101,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 102,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 103,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 104,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 105,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 106,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 107,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 108,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 109,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 110,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 111,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 112,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 113,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 114,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 115,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 116,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 117,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 118,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 119,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 120,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 121,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 122,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 123,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 124,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 125,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 126,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": "CVE-2024-12856"
+    },
+    {
+      "event_id": 127,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": "CVE-2024-12856"
+    },
+    {
+      "event_id": 128,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 129,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 130,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 131,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 132,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 133,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 134,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 135,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 136,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 137,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 138,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 139,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 140,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 141,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 142,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 143,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 144,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 145,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 146,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 147,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 148,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 149,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 150,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 151,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 152,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 153,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 154,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 155,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 156,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 157,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 158,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 159,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 160,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 161,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 162,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 163,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 164,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 165,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 166,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 167,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 168,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 169,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 170,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 171,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 172,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 173,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 174,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 175,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 176,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 177,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 178,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 179,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 180,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 181,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 182,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 183,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 184,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 185,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 186,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 187,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 188,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 189,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 190,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 191,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 192,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 193,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 194,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": "CVE-2024-0778"
+    },
+    {
+      "event_id": 195,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": "CVE-2024-0778"
+    },
+    {
+      "event_id": 196,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": "CVE-2024-0778"
+    },
+    {
+      "event_id": 197,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": "CVE-2024-0778"
+    },
+    {
+      "event_id": 198,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 199,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 200,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 201,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 202,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 203,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 204,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 205,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 206,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 207,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 208,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 209,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 210,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 211,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 212,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 213,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 214,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 215,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 216,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 217,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 218,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 219,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 220,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 221,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 222,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 223,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 224,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 225,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 226,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 227,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 228,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 229,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 230,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 231,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 232,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 233,
+      "classification": "http_exploit",
+      "scenario_id": null,
+      "cve": null
+    },
+    {
+      "event_id": 234,
+      "classification": "http_dos",
+      "scenario_id": 1,
+      "cve": null
+    },
+    {
+      "event_id": 235,
+      "classification": "http_dos",
+      "scenario_id": 1,
+      "cve": null
+    },
+    {
+      "event_id": 236,
+      "classification": "http_dos",
+      "scenario_id": 1,
+      "cve": null
+    },
+    {
+      "event_id": 237,
+      "classification": "http_dos",
+      "scenario_id": 1,
+      "cve": null
+    },
+    {
+      "event_id": 238,
+      "classification": "http_dos",
+      "scenario_id": 1,
+      "cve": null
+    },
+    {
+      "event_id": 239,
+      "classification": "http_dos",
+      "scenario_id": 1,
+      "cve": null
+    },
+    {
+      "event_id": 240,
+      "classification": "http_dos",
+      "scenario_id": 1,
+      "cve": null
+    },
+    {
+      "event_id": 241,
+      "classification": "http_dos",
+      "scenario_id": 1,
+      "cve": null
+    },
+    {
+      "event_id": 242,
+      "classification": "http_dos",
+      "scenario_id": 1,
+      "cve": null
+    },
+    {
+      "event_id": 243,
+      "classification": "http_dos",
+      "scenario_id": 1,
+      "cve": null
+    },
+    {
+      "event_id": 244,
+      "classification": "http_dos",
+      "scenario_id": 1,
+      "cve": null
+    },
+    {
+      "event_id": 245,
+      "classification": "http_dos",
+      "scenario_id": 1,
+      "cve": null
+    }
+  ],
+  "mapped_cves": [
+    "CVE-2021-36260",
+    "CVE-2023-1389",
+    "CVE-2024-0778",
+    "CVE-2024-12856",
+    "CVE-2025-34037"
+  ]
+}

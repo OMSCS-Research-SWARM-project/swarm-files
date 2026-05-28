@@ -1,0 +1,44 @@
+{
+  "split": "student_realistic_sample",
+  "labels_included": true,
+  "description": "Labeled realistic practice data for local agent development.",
+  "groups": [
+    {
+      "name": "realistic_sample_http",
+      "event_ids": [
+        2001,
+        2002,
+        2011,
+        2021,
+        2023,
+        2031,
+        2041,
+        2051,
+        2061,
+        2071,
+        2081
+      ]
+    },
+    {
+      "name": "realistic_sample_ddos",
+      "event_ids": [
+        3001,
+        3002,
+        3003,
+        3004,
+        3005
+      ]
+    },
+    {
+      "name": "realistic_sample_telnet",
+      "event_ids": [
+        1001,
+        1002,
+        1036,
+        1037,
+        1045,
+        1050
+      ]
+    }
+  ]
+}
